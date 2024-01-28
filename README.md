@@ -36,7 +36,7 @@ Feel free to explore my repositories for more projects and code samples.
 
 ## Skills
 
-- **Programming Languages**: I code mostly in Javascript and Python. I'm proficient in Node.js and writing secure and scalable API using ExpressJs, and Django. I also code in flutter-Dart.
+- **Programming Languages**: I code mostly in Javascript and Python. I'm proficient in Node.js and writing secure and scalable API using ExpressJs, and Flask. I also code in Flutter-Dart.
 - **Technologies**: Node.js, ExpressJs, Redis, MySql, AWS, JWT, Django,Heroku, Docker, Postman, Android, studio, flutter, 
 - **Other Skills**: I'm good communicator and a team player. I love to play and try with new technology. 
 
